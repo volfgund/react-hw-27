@@ -1,0 +1,25 @@
+.app {
+    background-color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+}
+
+.counter {
+    font-size: 36px;
+    margin: 20px;
+}
+
+.button {
+    font-size: 18px;
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: blue;
+}
